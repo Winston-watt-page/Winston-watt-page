@@ -1,43 +1,54 @@
 # 👋 Hi, I'm Winston S  
-💡 AI & Full-Stack Developer | ☁️ Cloud Enthusiast | 🤖 Agentic AI Explorer  
+
+💻 Full-Stack & Backend Developer | 🐍 Pythonista | ☕ Java Enthusiast  
 
 🎓 Final-Year CSE Student @ Kongunadu College of Engineering and Technology (2022–2026)  
 🏆 AWS Certified Cloud Practitioner (2024)  
-💻 Building **TeachMate AI Agent**, **WinstonBot**, and other real-world solutions  
+
+---
+
+## 🔭 Currently Working On  
+- Architecting and building **microservices** using Flask + PostgreSQL/MySQL  
+- Learning best practices for **scalable backend systems**  
 
 ---
 
 ## 🧠 Interests  
-- 🤖 **AI & Agentic Systems** – Personalized AI Agents for education and productivity  
-- 📊 **Data-Driven Insights** – Predictive modeling and analytics using Python  
-- 🌐 **Full-Stack Web Development** – Flask/React + cloud deployments on AWS/Vercel  
-- ☁️ **Cloud & DevOps** – Automating, scaling, and deploying AI services  
+- 🌐 **Full-Stack Web Development** – Flask + React  
+- 🗄️ **Databases & APIs** – Building robust backends with PostgreSQL
+- 🧩 **Problem Solving** – Strengthening algorithms & data structures  
 
 ---
 
 ## 🛠 Tech Stack  
-**Languages:** Python, Java, SQL, JavaScript  
-**Frameworks:** Flask, React.js, Streamlit, Spring Boot  
-**Cloud:** AWS (EC2, S3, IAM, Lambda), Vercel  
-**Databases:** MySQL, PostgreSQL (Basic), MongoDB  
-**AI/ML:** LangChain, Hugging Face, Groq, OpenAI API, PyTorch, TensorFlow  
-**Tools:** Git/GitHub, Node.js, Postman  
+**Languages:** Python, Java  
+**Frameworks:** Flask, React  
+**Databases:** PostgreSQL, MySQL  
 
 ---
 
 ## 🚀 Featured Projects  
-- **TeachMate AI Agent** – Multi-module AI platform for syllabus, lesson planning, RAG  
-- **WinstonBot** – Context-aware AI assistant deployed via Flask & Groq API  
-- **Microclimate Monitoring & Prediction** – LSTM-based weather prediction  
+- **TeachMate AI Agent** – AI-powered academic assistant with Flask backend  
+- **Microclimate Monitoring & Prediction** – LSTM-based weather prediction platform  
 - **CivicConnect** – Full-stack civic engagement platform with React + Node.js  
 
 ---
 
 ## 📊 LeetCode Stats  
-![LeetCode Stats](https://leetcode.com/u/wattwinston7/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/wattwinston7?theme=dark&font=Karla)
+
+<sub>Currently solving problems in Java & Python — Arrays, Math, Strings, Hash Tables, DP</sub>
+
+---
+
+## 📈 GitHub Stats  
+
+![Winston's GitHub stats](https://github-readme-stats.vercel.app/api?username=wattwinston7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wattwinston7&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=wattwinston7&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 ---
 
 ## 📫 Let's Connect!  
-[🌐 Portfolio](https://winstons.me) | [💼 LinkedIn](https://www.linkedin.com/in/winstonwatt) | 📧 wattwinston7@gmail.com  
-
+[🌐 Portfolio](https://winstons.me) · [💼 LinkedIn](https://www.linkedin.com/in/winstonwatt) · 📧 wattwinston7@gmail.com  
