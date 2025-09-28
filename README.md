@@ -17,7 +17,7 @@
 **Languages:** Python, Java  
 **Frameworks:** Flask  
 **Libraries:** React, NumPy, Pandas, scikit-learn (Python)  
-**Databases:** PostgreSQL, MySQL
+**Databases:** PostgreSQL, MySQL, MongoDB
 
 ---
 
