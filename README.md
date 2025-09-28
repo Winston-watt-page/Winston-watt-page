@@ -15,9 +15,11 @@
 
 ## 🛠 Tech Stack
 **Languages:** Python, Java  
-**Frameworks:** Flask, React  
+**Frameworks:** Flask  
+**Libraries:** React, NumPy, Pandas, scikit-learn (Python)  
 **Databases:** PostgreSQL, MySQL
 
+---
 
 ## 📫 Connect with Me
 [Portfolio](https://winstons.me) · [LinkedIn](https://www.linkedin.com/in/winstonwatt) · 📧 wattwinston7@gmail.com
