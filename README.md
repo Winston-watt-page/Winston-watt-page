@@ -22,4 +22,5 @@
 ---
 
 ## 📫 Connect with Me
-[Portfolio](https://winstons.me) · [LinkedIn](https://www.linkedin.com/in/winstonwatt) · 📧 wattwinston7@gmail.com
+[Portfolio](https://winstons.me) · [LinkedIn](https://www.linkedin.com/in/winstonwatt) · [Email](mailto:wattwinston7@gmail.com)
+
