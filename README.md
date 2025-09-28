@@ -28,9 +28,9 @@
 ---
 
 ## 🚀 Featured Projects
-- **TeachMate AI Agent** – AI-powered academic assistant with Flask backend
-- **Microclimate Monitoring & Prediction** – LSTM-based weather prediction platform
-- **CivicConnect** – Full-stack civic engagement platform with React + Node.js
+- [**TeachMate AI Agent**](https://github.com/Winston-watt-page/TeachMate-Agent) – AI-powered academic assistant with Flask backend
+- [**Microclimate Monitoring & Prediction**](https://github.com/Winston-watt-page/Micro_Climate_Prediction) – LSTM-based weather prediction platform
+- [**CivicConnect**](https://github.com/Winston-watt-page/CivicConnect-A_Web_Based_Citizen_Reporting_System) – Full-stack civic engagement platform with React + Node.js
 
 ---
 
